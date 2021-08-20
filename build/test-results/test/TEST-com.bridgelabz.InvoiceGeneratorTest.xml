@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.InvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-13T04:20:54" hostname="DESKTOP-TLRN2B1" time="0.043">
+  <properties/>
+  <testcase name="givenDistanceAndTimeShouldReturnFare()" classname="com.bridgelabz.InvoiceGeneratorTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
