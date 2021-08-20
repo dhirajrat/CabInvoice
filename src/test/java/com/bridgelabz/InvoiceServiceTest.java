@@ -21,6 +21,7 @@ public class InvoiceServiceTest {
     }
 
     /**
+     * 
      * Given Less Distance and Time
      * return minimum fare as 5
      */
